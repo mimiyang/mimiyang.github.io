@@ -2,7 +2,7 @@
 
 Hi there, I'm Yang Hao!</h1>
 
-I will use this webpage to present my choice <em>A Touch of Evil</em>
+I will use this webpage to present my choice A Touch of Evil
 
 ### Markdown
 
