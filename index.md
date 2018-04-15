@@ -1,12 +1,21 @@
-## Where Athletes in the Premier League, the N.B.A and Other Sports Leagues Come From, in 15 Charts
+# Where Athletes in the Premier League, the N.B.A and Other Sports Leagues Come From, in 15 Charts
 
 Hi there, I'm Yang Hao!
 
-I will use this webpage to present my choice A Touch of Evil
+I will use this webpage to present my viewer's choice topic.
 
-### Markdown
+## Link to the topic
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Introduction to the visualization
+
+This visualization shows the interactive visualizations for . Some of ... includes:
+
+- here is this
+- here is that
+- here is them
+- here is those
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +35,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mimiyang/mimiyang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
