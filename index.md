@@ -21,20 +21,25 @@ This visualization shows the interactive visualizations for . Some of ... includ
 
 ## Discussion
 
-What is the data?
+###What is the data? And how it is collected?
+To track the trend of the movement, charts are plots on birthplace of players, who are from 15 of the best-known leagues in the United States, Canada and Europe. 
 
-|League         | Link            | Descripition |
-| ------------- |:---------------:| --------------------:|
-| National Football League      | [Pro Football Reference](https://www.pro-football-reference.com/)| $1600 |
-| National Basketball Association      | [Basketball Reference](https://www.basketball-reference.com/teams/BOS/1961.html)        |   $12 |
-| National Hockey League | [Hockey Reference](https://www.hockey-reference.com/)       |    $1 |
-| Major League Baseball | [Baseball Reference](https://www.baseball-reference.com/) & [Racial Composition](https://sabr.org/bioproj/topic/baseball-demographics-1947-2012)    |     |
-|women’s professional soccer (W.P.S., WUSA, N.W.S.L.)|[Roster data](https://issuu.com/jendesignhouston/docs/nwsalmanac.fall2016.sample) |  $12 |
-|men’s soccer leagues in Europe and North America – the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga and Major League Soccer|[Worldfootball.net](http://www.worldfootball.net/)|$1000|
+The table below shows you where the data comes from and what is it.
+ 
+|League         | Link            | 
+| ------------- |:---------------:| 
+| National Football League      | [Pro Football Reference](https://www.pro-football-reference.com/)| 
+| National Basketball Association      | [Basketball Reference](https://www.basketball-reference.com/teams/BOS/1961.html)        |   
+| National Hockey League | [Hockey Reference](https://www.hockey-reference.com/)       |    
+| Major League Baseball | [Baseball Reference](https://www.baseball-reference.com/) & [Racial Composition](https://sabr.org/bioproj/topic/baseball-demographics-1947-2012)    |     
+|Wmen’s professional soccer (W.P.S., WUSA, N.W.S.L.)|[Roster data](https://issuu.com/jendesignhouston/docs/nwsalmanac.fall2016.sample) |  
+|Men’s soccer leagues in Europe and North America|[Worldfootball.net](http://www.worldfootball.net/)|
+
+The most reliable sources for American sports tend to list a player’s birthplace, while those for international soccer describe a player’s nationality. Most players are born in the country in which they have citizenship; the possibility of a small number of mismatches between birthplaces and nationality does not change the overall picture much.
 
 
 
-How was it collected?
+###How was it collected?
 
 What works and what needs improvement?
 
