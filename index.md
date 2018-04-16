@@ -23,6 +23,12 @@ This visualization shows the interactive visualizations for . Some of ... includ
 
 What is the data?
 
+|League         | Link            | Cool  |
+| ------------- |:---------------:| -----:|
+| National Football League      | [Pro Football](https://www.pro-football-reference.com/)| $1600 |
+| National Basketball Association      | centered        |   $12 |
+| National Hockey League | are neat        |    $1 |
+
 Data for the National Football League is from Pro Football Reference and describes the state or country a player was born. Data between 1960 and 1970 includes A.F.L. and N.F.L. players
 Data for the National Basketball Association is from Basketball Reference and describes the state or country a player was born.
 Data for the National Hockey League is from Hockey Reference and describes the state or country a player was born.
