@@ -26,8 +26,11 @@ What is the data?
 |League         | Link            | Cool  |
 | ------------- |:---------------:| -----:|
 | National Football League      | [Pro Football](https://www.pro-football-reference.com/)| $1600 |
-| National Basketball Association      | centered        |   $12 |
-| National Hockey League | are neat        |    $1 |
+| National Basketball Association      | [Basketball]()        |   $12 |
+| National Hockey League | [Hockey]()       |    $1 |
+| Major League Baseball | [Baseball]()      |     |
+|women’s professional soccer (W.P.S., WUSA, N.W.S.L.)|[Roster data compiled for The Times] |  $12 |
+|men’s soccer leagues in Europe and North America – the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga and Major League Soccer|[Worldfootball.net]()|$1000|
 
 Data for the National Football League is from Pro Football Reference and describes the state or country a player was born. Data between 1960 and 1970 includes A.F.L. and N.F.L. players
 Data for the National Basketball Association is from Basketball Reference and describes the state or country a player was born.
