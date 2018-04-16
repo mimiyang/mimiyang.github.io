@@ -1,5 +1,6 @@
 # Where Athletes in the Premier League, the N.B.A and Other Sports Leagues Come From, in 15 Charts
-![](MLB.jpg)
+![](athletic.jpg)
+<img src="/athletic.jpg" width="240" height="180" border="10">
 
 
 Hi there, I'm Yang Hao!
