@@ -16,8 +16,8 @@ More and more data and evidences show that the composition of athletes in most o
 This interactive visualization show where athletes in 15 of the best-known professional leagues come from. It includes:
 
 - The data is about players' birthplace in 15 leagues. Those 9 top
-European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga.[9 top European Leagues](/european_01.PNG)
- And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer. [6 American and Canadian Leagues](/usa_01.PNG)
+European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga.![](/european_01.PNG)
+ And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer. ![](/usa_01.PNG)
 - 15 Stacked Area Charts.
 - Features:
 
