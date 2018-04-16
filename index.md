@@ -15,11 +15,21 @@ More and more data and evidences show that the composition of athletes in most o
 
 This interactive visualization show where athletes in 15 of the best-known professional leagues come from. It includes:
 
-- The data is about players' birthplace in 15 leagues. Those 9 top
-European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga.![](/european_01.PNG)
- And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer. ![](/usa_01.PNG)
-- 15 Stacked Area Charts.
+- The data is about players' birthplace in 15 leagues along years. Those 9 top European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga.![](/european_01.PNG)
+
+And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer. ![](/usa_01.PNG)
+- 15 Stacked Area Charts. Stacked area charts are good choice for this project. It lets you see categorical data over time. Interaction allows you to focus on specific categories without losing sight of the big picture.
+
 - Features:
+	1. Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together.
+	   ![](/european_01.PNG)
+	2.	It gives a broad view of the topic developing over years. You can get different groups' share. You will get inspired by the change of share over time. 
+		![](/premierLeague.jpg)
+	3.	It uses annotations and highlight ranges to add explanations to charts. It makes data for seperate group outstanding and interactive. It also helps readers to figure out more details about the chart.
+		![](/premierLeague.jpg)
+	4.	It turns off automatic labeling and places its own's labels
+	5. 	Leagues rules or laws can make the trend change. And there are elements to mark them in charts. It makes data more interesting and intuitive.
+
 
 
 ## Discussion
