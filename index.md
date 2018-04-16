@@ -23,21 +23,16 @@ This visualization shows the interactive visualizations for . Some of ... includ
 
 What is the data?
 
-|League         | Link            | Cool  |
-| ------------- |:---------------:| -----:|
-| National Football League      | [Pro Football](https://www.pro-football-reference.com/)| $1600 |
-| National Basketball Association      | [Basketball]()        |   $12 |
-| National Hockey League | [Hockey]()       |    $1 |
-| Major League Baseball | [Baseball]()      |     |
-|women’s professional soccer (W.P.S., WUSA, N.W.S.L.)|[Roster data compiled for The Times] |  $12 |
-|men’s soccer leagues in Europe and North America – the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga and Major League Soccer|[Worldfootball.net]()|$1000|
+|League         | Link            | Descripition |
+| ------------- |:---------------:| --------------------:|
+| National Football League      | [Pro Football Reference](https://www.pro-football-reference.com/)| $1600 |
+| National Basketball Association      | [Basketball Reference](https://www.basketball-reference.com/teams/BOS/1961.html)        |   $12 |
+| National Hockey League | [Hockey Reference](https://www.hockey-reference.com/)       |    $1 |
+| Major League Baseball | [Baseball Reference](https://www.baseball-reference.com/) & [Racial Composition](https://sabr.org/bioproj/topic/baseball-demographics-1947-2012)    |     |
+|women’s professional soccer (W.P.S., WUSA, N.W.S.L.)|[Roster data](https://issuu.com/jendesignhouston/docs/nwsalmanac.fall2016.sample) |  $12 |
+|men’s soccer leagues in Europe and North America – the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga and Major League Soccer|[Worldfootball.net](http://www.worldfootball.net/)|$1000|
 
-Data for the National Football League is from Pro Football Reference and describes the state or country a player was born. Data between 1960 and 1970 includes A.F.L. and N.F.L. players
-Data for the National Basketball Association is from Basketball Reference and describes the state or country a player was born.
-Data for the National Hockey League is from Hockey Reference and describes the state or country a player was born.
-Data for Major League Baseball is from Baseball Reference and indicates the state or country a player was born. While Puerto Ricans are U.S. citizens, we group them separately here, reflecting Puerto Rico’s status as a commonwealth of the United States. Puerto Rico competes independently in the Olympics, and placed second in the 2017 World Baseball Classic. Data about the racial composition of Major League baseball players was compiled by Mark Armour and Daniel R. Levitt.
-Data for women’s professional soccer (W.P.S., WUSA, N.W.S.L.) is based on roster data compiled for The Times by Jen Cooper, editorial director for the N.W.S.L. Lifetime Game of the Week. The data indicates a player’s nationality.
-Data for men’s soccer leagues in Europe and North America – the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga and Major League Soccer – is from Worldfootball.net and describes a player’s nationality.
+
 
 How was it collected?
 
