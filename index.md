@@ -21,7 +21,8 @@ This visualization shows the interactive visualizations for . Some of ... includ
 
 ## Discussion
 
-###What is the data? And how it is collected?
+..*<em>What is the data? And how it is collected?</em>>  
+
 To track the trend of the movement, charts are plots on birthplace of players, who are from 15 of the best-known leagues in the United States, Canada and Europe. 
 
 The table below shows you where the data comes from and what is it.
@@ -38,21 +39,18 @@ The table below shows you where the data comes from and what is it.
 The most reliable sources for American sports tend to list a player’s birthplace, while those for international soccer describe a player’s nationality. Most players are born in the country in which they have citizenship; the possibility of a small number of mismatches between birthplaces and nationality does not change the overall picture much.
 
 
-
-###How was it collected?
-
-What works and what needs improvement?
+..*<em>What works and what needs improvement?</em>
 
 -Keep in mind that this shows perentages and not absolute counts. 
 -Focus on the overall trends and how they changes by group.
 -It is likely due to population size more than anything else.
 -When you select the legend, you might 
 
-Who are the users that this visualization was made for?
+..*<em>Who are the users that this visualization was made for?</em>
 
-What questions do people want to ask?
+..*<em>What questions do people want to ask?</em>
 
-how can they find the answers with this toool?
+..*<em>How can they find the answers with this toool?</em>
 
 
 
