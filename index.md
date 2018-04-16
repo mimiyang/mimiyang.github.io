@@ -1,5 +1,5 @@
 # Where Athletes in the Premier League, the N.B.A and Other Sports Leagues Come From, in 15 Charts
-<img src="athletic.jpg" width="1200" height="500">
+<img src="athletic.jpg" width="1200" height="300">
 
 
 Hi there, I'm Yang Hao!
@@ -8,7 +8,7 @@ I will use this webpage to present my viewer's choice topic.
 
 ## Link to the topic
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league](https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league)
 
 ## Introduction to the visualization
 
