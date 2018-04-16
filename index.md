@@ -1,5 +1,7 @@
 # Where Athletes in the Premier League, the N.B.A and Other Sports Leagues Come From, in 15 Charts
 
+
+
 Hi there, I'm Yang Hao!
 
 I will use this webpage to present my viewer's choice topic.
@@ -60,7 +62,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![MLB](/MLB.jpg)
 ```
 
 
