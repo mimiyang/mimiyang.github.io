@@ -11,13 +11,16 @@ I will use this webpage to present my viewer's choice topic.
 [https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league](https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league)
 
 ## Introduction to the visualization
+More and more data and evidences show that the composition of athletes in most of the top professional sports leagues becomes more and more international.
 
-This visualization shows the interactive visualizations for . Some of ... includes:
+This interactive visualization show where athletes in 15 of the best-known professional leagues come from. It includes:
 
-- Data used: 
-- 15 charts 
+- The data is about players' birthplace in 15 leagues. Those 9 top
+European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga.[9 top European Leagues](/european_01.PNG)
+ And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer. [6 American and Canadian Leagues](/usa_01.PNG)
+- 15 Stacked Area Charts.
 - Features:
-- Chart type is a Stacked Area Chart. 
+
 
 ## Discussion
 
@@ -27,8 +30,8 @@ To track the trend of the movement, charts are plots on birthplace of players, w
 
 The table below shows you where the data comes from and what is it.
  
-|League         | Link            | 
-| ------------- |:---------------:| 
+|League         	  | Link            | 
+| ------------------- |:---------------:| 
 | National Football League      | [Pro Football Reference](https://www.pro-football-reference.com/)| 
 | National Basketball Association      | [Basketball Reference](https://www.basketball-reference.com/teams/BOS/1961.html)        |   
 | National Hockey League | [Hockey Reference](https://www.hockey-reference.com/)       |    
