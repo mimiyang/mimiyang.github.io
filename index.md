@@ -15,15 +15,17 @@ More and more data and evidences show that the composition of athletes in most o
 
 This interactive visualization show where athletes in 15 of the best-known professional leagues come from. It includes:
 
-- The data is about players' birthplace in 15 leagues along years. Those 9 top European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga.![](/european_01.PNG)
+- The data is about players' birthplace in 15 leagues along years. Those 9 top European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga.!
+		1[](/european_01.PNG)
 
-And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer. ![](/usa_01.PNG)
+And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer. 
+		![](/usa_01.PNG)
 - 15 Stacked Area Charts. Stacked area charts are good choice for this project. It lets you see categorical data over time. Interaction allows you to focus on specific categories without losing sight of the big picture.
 
 - Features:
 	1. Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together.
-	   ![](/european_01.PNG)
-	2.	It gives a broad view of the topic developing over years. You can get different groups' share. You will get inspired by the change of share over time. 
+	    ![](/european_01.PNG)
+	2.	It gives a broad view of the topic developing over years. You can get different groups' share together and make comparison. You will get inspired by the change of share over time. 
 		![](/premierLeague.jpg)
 	3.	It uses annotations and highlight ranges to add explanations to charts. It makes data for seperate group outstanding and interactive. It also helps readers to figure out more details about the chart.
 		![](/premierLeague.jpg)
@@ -53,18 +55,33 @@ The most reliable sources for American sports tend to list a player’s birthpla
 
 
 **<em>What works and what needs improvement?</em>**
+Pros:
 
--Keep in mind that this shows perentages and not absolute counts. 
--Focus on the overall trends and how they changes by group.
--It is likely due to population size more than anything else.
--When you select the legend, you might 
+- It selects the stacked area chart to group values of many catagories. It focuses on the overall trends and how they changes by group on shares instead of absolute values. And it is good choice in this case because there have many dates. 
+- It considers grouping many tiny values together to one bigger value(e.g. "others european countries and african countries") to clean up the overall look of the chart. You will need fewer labels, which will help your readers to navigate themselves faster on the chart.
+	![](Jupiler.jpg)
+- It turns off automatic labeling and places its own's labels. readers will be able to read the chart faster thanks to that.  
+
+Cons:
+
+- Area charts don't work good for considerably small differences between your values. The trend is hard to be seen well enough on an area chart. 
+- Bright color used in some charts can attract readers' focus. However it isn't any special important value. It makes charts harder to read.
+- The discrepancy arises because the chart plots the market share vertically, but we perceive the thickness of a stream at right angles to its general direction.
 
 **<em>Who are the users that this visualization was made for?</em>**
+1 Decision makers in leagues. There may be some correlation between player diversity and team results in competition. There is some studies showing the benefits of diversity on the playing field or ditch as it's known in games. 
+2 Researchers and journalists who is interested in sport related field. The topic provides comprehensive resource for issues related to countries and race in athlete. It's a reflection of which countries have deep talent pool and are investing in some related sport a lot. 
+3 Some sociology researcher who is interested in the race composition of players in leagues. The report address some issues on some significant shift in the race composition in US leagues.
+4 Some decision makers in the sport related industries. 
 
 **<em>What questions do people want to ask?</em>**
 
-**<em>How can they find the answers with this toool?</em>**
-
+1 According to datas in american and canadian sports leagues, what is the relation between the changing composition of the league and the trend of the interest of fans? 
+2 Why there is a share decline in African American players in some sports?
+3 According to compositon of women's professional soccer in the U.S., what happened on the trend of other foreign countries where foreigners came from? 
+**<em>How can they find the answers with this tool?</em>**
+1 The changes of the composition reflect the trend of the new fans. The trend of charts on the composition are very consistant . It provides a great views for them. The conclusion also works for Hockey Leagues and the interest of the sport. 
+2 It may be because the trend of fans changes. When baseball was national pastime of the United States, majority of players were american. However, it changed a lot when interest in baseball becomes strong in Latin American. Then more international players join the baseball leagues. Alongside this growth among latin Americans, there is a sharp decline in participation among African-Americans. 
 
 
 ```markdown
