@@ -1,5 +1,6 @@
+
 # Where Athletes in the Premier League, the N.B.A and Other Sports Leagues Come From, in 15 Charts
-<img src="athletic.jpg" width="1200" height="300">
+<img src="athletic.jpg" aligh="center">
 
 
 Hi there, I'm Yang Hao!
@@ -8,19 +9,21 @@ I will use this webpage to present my viewer's choice topic.
 
 ## Link to the topic
 
-[https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league](https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league)
+<a href="https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league">https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league</a>
 
 ## Introduction to the visualization
 More and more data and evidences show that the composition of athletes in most of the top professional sports leagues becomes more and more international.
 
 This interactive visualization show where athletes in 15 of the best-known professional leagues come from. It includes:
 
-- The data is about players' birthplace in 15 leagues along years. Those 9 top European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga.!
-		1[](/european_01.PNG)
+<ul>
+	<li>The data is about players' birthplace in 15 leagues along years. Those 9 top European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga. And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer.</li>
+			![](/european_01.PNG)
+			![](/usa_01.PNG)
+	<li>15 Stacked Area Charts. Stacked area charts are good choice for this project. It lets you see categorical data over time. Interaction allows you to focus on specific categories without losing sight of the big picture.</li>
 
-And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer. 
-		![](/usa_01.PNG)
-- 15 Stacked Area Charts. Stacked area charts are good choice for this project. It lets you see categorical data over time. Interaction allows you to focus on specific categories without losing sight of the big picture.
+</ul>
+
 
 - Features:
 	1. Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together.
@@ -101,6 +104,8 @@ Syntax highlighted code block
 
 [Link](url) and ![MLB](/MLB.jpg)
 ```
+
+
 
 
 
