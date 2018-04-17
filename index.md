@@ -24,11 +24,11 @@ There are 15 Stacked Area Charts. Stacked area charts are good choice for this p
 
 - Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together. The plot below shows svg image of one stacked area chart. 
 <img src="svg.jpg" width="800" height="400">
-![](svg.jpg)
 
 
-- It gives a broad view of the topic developing over years. You can get different groups' share together and make comparison. You will get inspired by the change of share over time. 
-![](/premierLeague.jpg)
+- It gives a broad view of the topic developing over years. You can get different groups' share together and make comparison. You will get inspired by the change of share over time.
+<img src="premierLeague.jpg" width="800" height="400">
+
 
 - It uses annotations and highlight ranges to add explanations to charts. It makes data for seperate group outstanding and interactive. It also helps readers to figure out more details about the chart.
 	
@@ -67,19 +67,20 @@ Pros:
 - It selects the stacked area chart to group values of many catagories. It focuses on the overall trends and how they changes by group on shares instead of absolute values. And it is good choice in this case because there have many dates. 
 
 - It considers grouping many tiny values together to one bigger value(e.g. "others european countries and african countries") to clean up the overall look of the chart. You will need fewer labels, which will help your readers to navigate themselves faster on the chart.
-![](Jupiler.jpg)
+<img src="Jupiler.jpg" width="800" height="400">
+
 
 - It turns off automatic labeling and places its own's labels. readers will be able to read the chart faster thanks to that. 
 
 - Similiar groups are combined and sorted. They are also colored by color groups. The baseline is consistant for the whole topic. Take the chart for German leagues as an example. Countries from same continent are painted in similiar color groups. It is pretty good for reading quickly. 
-![german.jpg]
+<img src="german.jpg" width="800" height="400">
 
 
 
 Cons:
 
 - Area charts don't work good for considerably small differences between your values. The trend is hard to be seen well enough on an area chart. For N.F.L plot, we can easily see the shortcoming because players from North American dominate in leagues. The trends for players from outside North American is hard to be observed for readers when stacked area chart is used. 
-![](NFL.jpg)
+<img src="NFL.jpg" width="800" height="400">
 
 - Bright color used in some charts can attract readers' focus. However it isn't any special important value. It makes charts harder to read.
 
@@ -109,13 +110,14 @@ Cons:
 **How can they find the answers with this tool?**
 
 - The changes of the composition reflect the trend of the new fans. The trend of charts on the composition are very consistant . It provides a great views for them. The conclusion also works for Hockey Leagues and the interest of the sport. 
-![](NHL.jpg)
+<img src="NHL.jpg" width="800" height="400">
 
-- It may be because the trend of fans changes. When baseball was national pastime of the United States, majority of players were american. However, it changed a lot when interest in baseball becomes strong in Latin American. Then more international players join the baseball leagues. Alongside this growth among latin Americans, there is a sharp decline in participation among African-Americans. 
+- It may be because the trend of fans changes. When baseball was national pastime of the United States, majority of players were american. However, it changed a lot when interest in baseball becomes strong in Latin American. Then more international players join the baseball leagues. Alongside this growth among latin Americans, there is a sharp decline in participation among African-Americans.
+<img src="MLB.jpg" width="800" height="400"> 
 ![](african.jpg)
-![](MLB.jpg)
+
 -Women’s professional soccer has had fits and starts in the U.S., with two previous leagues – the Women’s United Soccer Association and Women’s Professional Soccer – both folding after a few seasons. the composition of women’s pro soccer in the U.S. has been relatively consistent: largely Americans, with foreigners coming mostly from Europe and Canada.
-![](women.jpg)
+<img src="women.jpg" width="800" height="400">
 
 
 
