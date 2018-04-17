@@ -71,7 +71,8 @@ Pros:
 
 Cons:
 
-- Area charts don't work good for considerably small differences between your values. The trend is hard to be seen well enough on an area chart. 
+- Area charts don't work good for considerably small differences between your values. The trend is hard to be seen well enough on an area chart. For N.F.L plot, we can easily see the shortcoming because players from North American dominate in leagues. The trends for players from outside North American is hard to be observed for readers when stacked area chart is used. 
+![](NFL.jpg)
 
 - Bright color used in some charts can attract readers' focus. However it isn't any special important value. It makes charts harder to read.
 
