@@ -22,8 +22,9 @@ There are 15 Stacked Area Charts. Stacked area charts are good choice for this p
 
 **Features:**
 
-- Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together.
-![](/european_01.PNG)
+- Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together. 
+![](svg.jpg)
+
 
 - It gives a broad view of the topic developing over years. You can get different groups' share together and make comparison. You will get inspired by the change of share over time. 
 ![](/premierLeague.jpg)
@@ -67,7 +68,12 @@ Pros:
 - It considers grouping many tiny values together to one bigger value(e.g. "others european countries and african countries") to clean up the overall look of the chart. You will need fewer labels, which will help your readers to navigate themselves faster on the chart.
 ![](Jupiler.jpg)
 
-- It turns off automatic labeling and places its own's labels. readers will be able to read the chart faster thanks to that.  
+- It turns off automatic labeling and places its own's labels. readers will be able to read the chart faster thanks to that. 
+
+- Similiar groups are combined and sorted. They are also colored by color groups. The baseline is consistant for the whole topic. Take the chart for German leagues as an example. Countries from same continent are painted in similiar color groups. It is pretty good for reading quickly. 
+![german.jpg]
+
+
 
 Cons:
 
@@ -77,6 +83,8 @@ Cons:
 - Bright color used in some charts can attract readers' focus. However it isn't any special important value. It makes charts harder to read.
 
 - The discrepancy arises because the chart plots the market share vertically, but we perceive the thickness of a stream at right angles to its general direction.
+
+- There are too many charts for the topics. It is inconvenient to pick interested chart quickly. If more tab menues can be applied to organize these charts, it will be better. 
 
 **Who are the users that this visualization was made for?**
 
@@ -100,9 +108,11 @@ Cons:
 **How can they find the answers with this tool?**
 
 - The changes of the composition reflect the trend of the new fans. The trend of charts on the composition are very consistant . It provides a great views for them. The conclusion also works for Hockey Leagues and the interest of the sport. 
-![](women.jpg)
+![](NHL.jpg)
+
 - It may be because the trend of fans changes. When baseball was national pastime of the United States, majority of players were american. However, it changed a lot when interest in baseball becomes strong in Latin American. Then more international players join the baseball leagues. Alongside this growth among latin Americans, there is a sharp decline in participation among African-Americans. 
 ![](african.jpg)
+![](MLB.jpg)
 -Women’s professional soccer has had fits and starts in the U.S., with two previous leagues – the Women’s United Soccer Association and Women’s Professional Soccer – both folding after a few seasons. the composition of women’s pro soccer in the U.S. has been relatively consistent: largely Americans, with foreigners coming mostly from Europe and Canada.
 ![](women.jpg)
 
