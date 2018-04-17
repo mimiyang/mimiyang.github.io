@@ -19,16 +19,16 @@ The data is about players' birthplace in 15 leagues along years. Those 9 top Eur
 			
 15 Stacked Area Charts. Stacked area charts are good choice for this project. It lets you see categorical data over time. Interaction allows you to focus on specific categories without losing sight of the big picture.
 
-			![](/european_01.PNG)
-			![](/usa_01.PNG)
+			[](/european_01.PNG)
+			[](/usa_01.PNG)
 
 **Features:**
 Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together.
 	
-	    ![](/european_01.PNG)
+	    [](/european_01.PNG)
 It gives a broad view of the topic developing over years. You can get different groups' share together and make comparison. You will get inspired by the change of share over time. 
 	
-		![](/premierLeague.jpg)
+		[](/premierLeague.jpg)
 It uses annotations and highlight ranges to add explanations to charts. It makes data for seperate group outstanding and interactive. It also helps readers to figure out more details about the chart.
 	
 It turns off automatic labeling and places its own's labels.
@@ -65,7 +65,7 @@ Pros:
 - It selects the stacked area chart to group values of many catagories. It focuses on the overall trends and how they changes by group on shares instead of absolute values. And it is good choice in this case because there have many dates. 
 - It considers grouping many tiny values together to one bigger value(e.g. "others european countries and african countries") to clean up the overall look of the chart. You will need fewer labels, which will help your readers to navigate themselves faster on the chart.
 	
-	![](Jupiler.jpg)
+	[](Jupiler.jpg)
 
 - It turns off automatic labeling and places its own's labels. readers will be able to read the chart faster thanks to that.  
 
