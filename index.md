@@ -16,8 +16,6 @@ More and more data and evidences show that the composition of athletes in most o
 This interactive visualization shows where athletes in 15 of the best-known professional leagues come from. The data is about players' birthplace in 15 leagues along years. Those 9 top European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga. And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer.
 			
 There are 15 Stacked Area Charts. Stacked area charts are good choice for this project. It lets you see categorical data over time. Interaction allows you to focus on specific categories without losing sight of the big picture.
-
-<img src="european_01.PNG" aligh="center" height="100" width="200">
 ![](/european_01.PNG)
 ![](/usa_01.PNG)
 
@@ -25,6 +23,7 @@ There are 15 Stacked Area Charts. Stacked area charts are good choice for this p
 **Features:**
 
 - Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together. The plot below shows svg image of one stacked area chart. 
+<img src="svg.jpg" width="400" height="800">
 ![](svg.jpg)
 
 
