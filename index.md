@@ -23,7 +23,7 @@ There are 15 Stacked Area Charts. Stacked area charts are good choice for this p
 **Features:**
 
 - Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together. The plot below shows svg image of one stacked area chart. 
-<img src="svg.jpg" width="400" height="800">
+<img src="svg.jpg" width="800" height="400">
 ![](svg.jpg)
 
 
