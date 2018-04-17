@@ -82,7 +82,6 @@ Pros:
 	<img src="german.jpg" width="800" height="400">
 
 
-
 Cons:
 
 - Area charts don't work good for considerably small differences between your values. The trend is hard to be seen well enough on an area chart. For N.F.L plot, we can easily see the shortcoming because players from North American dominate in leagues. The trends for players from outside North American is hard to be observed for readers when stacked area chart is used.
@@ -131,9 +130,8 @@ Cons:
 
 
 -Women’s professional soccer has had fits and starts in the U.S., with two previous leagues – the Women’s United Soccer Association and Women’s Professional Soccer – both folding after a few seasons. the composition of women’s pro soccer in the U.S. has been relatively consistent: largely Americans, with foreigners coming mostly from Europe and Canada.
-
 	<img src="women.jpg" width="800" height="400">
-
+	
 
 
 
