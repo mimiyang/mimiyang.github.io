@@ -76,7 +76,7 @@ Cons:
 
 - The discrepancy arises because the chart plots the market share vertically, but we perceive the thickness of a stream at right angles to its general direction.
 
-Who are the users that this visualization was made for?
+**Who are the users that this visualization was made for?**
 
 - Decision makers in leagues. There may be some correlation between player diversity and team results in competition. There is some studies showing the benefits of diversity on the playing field or ditch as it's known in games. 
 
@@ -86,7 +86,7 @@ Who are the users that this visualization was made for?
 
 - Some decision makers in the sport related industries. 
 
-What questions do people want to ask?
+**What questions do people want to ask?**
 
 - According to datas in american and canadian sports leagues, what is the relation between the changing composition of the league and the trend of the interest of fans? 
 
@@ -95,7 +95,7 @@ What questions do people want to ask?
 - According to compositon of women's professional soccer in the U.S., what happened on the trend of other foreign countries where foreigners came from? 
 
 
-How can they find the answers with this tool?
+**How can they find the answers with this tool?**
 
 - The changes of the composition reflect the trend of the new fans. The trend of charts on the composition are very consistant . It provides a great views for them. The conclusion also works for Hockey Leagues and the interest of the sport. 
 
