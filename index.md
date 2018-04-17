@@ -21,6 +21,7 @@ The data is about players' birthplace in 15 leagues along years. Those 9 top Eur
 ![](/european_01.PNG)
 ![](/usa_01.PNG)
 
+
 **Features:**
 Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together.
 ![](/european_01.PNG)
@@ -60,6 +61,7 @@ The most reliable sources for American sports tend to list a player’s birthpla
 Pros:
 
 - It selects the stacked area chart to group values of many catagories. It focuses on the overall trends and how they changes by group on shares instead of absolute values. And it is good choice in this case because there have many dates. 
+
 - It considers grouping many tiny values together to one bigger value(e.g. "others european countries and african countries") to clean up the overall look of the chart. You will need fewer labels, which will help your readers to navigate themselves faster on the chart.
 ![](Jupiler.jpg)
 
@@ -68,22 +70,25 @@ Pros:
 Cons:
 
 - Area charts don't work good for considerably small differences between your values. The trend is hard to be seen well enough on an area chart. 
+
 - Bright color used in some charts can attract readers' focus. However it isn't any special important value. It makes charts harder to read.
+
 - The discrepancy arises because the chart plots the market share vertically, but we perceive the thickness of a stream at right angles to its general direction.
 
-**Who are the users that this visualization was made for?**
-1 Decision makers in leagues. There may be some correlation between player diversity and team results in competition. There is some studies showing the benefits of diversity on the playing field or ditch as it's known in games. 
-2 Researchers and journalists who is interested in sport related field. The topic provides comprehensive resource for issues related to countries and race in athlete. It's a reflection of which countries have deep talent pool and are investing in some related sport a lot. 
-3 Some sociology researcher who is interested in the race composition of players in leagues. The report address some issues on some significant shift in the race composition in US leagues.
-4 Some decision makers in the sport related industries. 
+Who are the users that this visualization was made for?
 
-**What questions do people want to ask?**
+- Decision makers in leagues. There may be some correlation between player diversity and team results in competition. There is some studies showing the benefits of diversity on the playing field or ditch as it's known in games. 
+- Researchers and journalists who is interested in sport related field. The topic provides comprehensive resource for issues related to countries and race in athlete. It's a reflection of which countries have deep talent pool and are investing in some related sport a lot. 
+- Some sociology researcher who is interested in the race composition of players in leagues. The report address some issues on some significant shift in the race composition in US leagues.
+- Some decision makers in the sport related industries. 
+
+What questions do people want to ask?
 
 - According to datas in american and canadian sports leagues, what is the relation between the changing composition of the league and the trend of the interest of fans? 
 - Why there is a share decline in African American players in some sports?
 - According to compositon of women's professional soccer in the U.S., what happened on the trend of other foreign countries where foreigners came from? 
 
-**How can they find the answers with this tool?**
+How can they find the answers with this tool?
 
 - The changes of the composition reflect the trend of the new fans. The trend of charts on the composition are very consistant . It provides a great views for them. The conclusion also works for Hockey Leagues and the interest of the sport. 
 - It may be because the trend of fans changes. When baseball was national pastime of the United States, majority of players were american. However, it changed a lot when interest in baseball becomes strong in Latin American. Then more international players join the baseball leagues. Alongside this growth among latin Americans, there is a sharp decline in participation among African-Americans. 
