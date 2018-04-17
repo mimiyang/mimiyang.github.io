@@ -58,12 +58,6 @@ The most reliable sources for American sports tend to list a player’s birthpla
 
 **What works and what needs improvement?**
 
-|Pros:         	  		       | Cons:	                          | 
-| ---------------------------- |----------------------------------| 
-|It selects the stacked area chart to group values of many catagories. It focuses on the overall trends and how they changes by group on shares instead of absolute values. And it is good choice in this case because there have many dates.|Area charts don't work good for considerably small differences between your values. The trend is hard to be seen well enough on an area chart. |
-|It considers grouping many tiny values together to one bigger value(e.g. "others european countries and african countries") to clean up the overall look of the chart. You will need fewer labels, which will help your readers to navigate themselves faster on the chart.|Bright color used in some charts can attract readers' focus. However it isn't any special important value. It makes charts harder to read.|
-|It turns off automatic labeling and places its own's labels. readers will be able to read the chart faster thanks to that.|Some sociology researcher who is interested in the race composition of players in leagues. The report address some issues on some significant shift in the race composition in US leagues.|
-|    |The discrepancy arises because the chart plots the market share vertically, but we perceive the thickness of a stream at right angles to its general direction.|
 Pros:
 
 - It selects the stacked area chart to group values of many catagories. It focuses on the overall trends and how they changes by group on shares instead of absolute values. And it is good choice in this case because there have many dates. 
@@ -112,7 +106,6 @@ Syntax highlighted code block
 
 [Link](url) and ![MLB](/MLB.jpg)
 ```
-
 
 
 
