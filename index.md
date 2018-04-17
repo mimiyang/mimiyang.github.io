@@ -43,7 +43,8 @@ To track the trend of the movement, charts are plots on birthplace of players, w
 
 The table below shows you where the data comes from and what is it.
 
- 
+
+
 |League         	  		   | Link	               | 
 | ---------------------------- |:---------------------:| 
 | National Football League      | [Pro Football Reference](https://www.pro-football-reference.com/)| 
@@ -78,19 +79,26 @@ Cons:
 Who are the users that this visualization was made for?
 
 - Decision makers in leagues. There may be some correlation between player diversity and team results in competition. There is some studies showing the benefits of diversity on the playing field or ditch as it's known in games. 
+
 - Researchers and journalists who is interested in sport related field. The topic provides comprehensive resource for issues related to countries and race in athlete. It's a reflection of which countries have deep talent pool and are investing in some related sport a lot. 
+
 - Some sociology researcher who is interested in the race composition of players in leagues. The report address some issues on some significant shift in the race composition in US leagues.
+
 - Some decision makers in the sport related industries. 
 
 What questions do people want to ask?
 
 - According to datas in american and canadian sports leagues, what is the relation between the changing composition of the league and the trend of the interest of fans? 
+
 - Why there is a share decline in African American players in some sports?
+
 - According to compositon of women's professional soccer in the U.S., what happened on the trend of other foreign countries where foreigners came from? 
+
 
 How can they find the answers with this tool?
 
 - The changes of the composition reflect the trend of the new fans. The trend of charts on the composition are very consistant . It provides a great views for them. The conclusion also works for Hockey Leagues and the interest of the sport. 
+
 - It may be because the trend of fans changes. When baseball was national pastime of the United States, majority of players were american. However, it changed a lot when interest in baseball becomes strong in Latin American. Then more international players join the baseball leagues. Alongside this growth among latin Americans, there is a sharp decline in participation among African-Americans. 
 
 
