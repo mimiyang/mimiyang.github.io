@@ -8,30 +8,34 @@ I will use this webpage to present my viewer's choice topic.
 
 ## Link to the topic
 
-<a href="https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league" style="blue">https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league</a>
+<a href="https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league" style="color:blue">https://www.nytimes.com/interactive/2017/12/29/upshot/internationalization-of-pro-sports-leagues-premier-league.html#wfn-england-premier-league</a>
 
 ## Introduction to the visualization
 More and more data and evidences show that the composition of athletes in most of the top professional sports leagues becomes more and more international.
 
 This interactive visualization show where athletes in 15 of the best-known professional leagues come from. It includes:
 
-<ul style="">
+<ul>
 	<li>The data is about players' birthplace in 15 leagues along years. Those 9 top European leagues are  the Jupiler League, Premier League, Ligue 1, Bundesliga, Serie A, Eredivisie, Primeira Liga, Scottish Premiership, La Liga. And 6 American and Canadian sports leagues are M.L.B., N.B.A., N.H.L, N.F.L., M.L.S., U.S. Women's Soccer.</li>
 			
 	<li>15 Stacked Area Charts. Stacked area charts are good choice for this project. It lets you see categorical data over time. Interaction allows you to focus on specific categories without losing sight of the big picture.</li>
 
 </ul>
+
 			![](/european_01.PNG)
 			![](/usa_01.PNG)
 
 - Features:
 	1. Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together.
+	
 	    ![](/european_01.PNG)
 	2.	It gives a broad view of the topic developing over years. You can get different groups' share together and make comparison. You will get inspired by the change of share over time. 
+	
 		![](/premierLeague.jpg)
 	3.	It uses annotations and highlight ranges to add explanations to charts. It makes data for seperate group outstanding and interactive. It also helps readers to figure out more details about the chart.
+	
 		![](/premierLeague.jpg)
-	4.	It turns off automatic labeling and places its own's labels
+	4.	It turns off automatic labeling and places its own's labels.
 	5. 	Leagues rules or laws can make the trend change. And there are elements to mark them in charts. It makes data more interesting and intuitive.
 
 
@@ -43,6 +47,7 @@ This interactive visualization show where athletes in 15 of the best-known profe
 To track the trend of the movement, charts are plots on birthplace of players, who are from 15 of the best-known leagues in the United States, Canada and Europe. 
 
 The table below shows you where the data comes from and what is it.
+
  
 |League         	  		   | Link	               | 
 | ---------------------------- |:---------------------:| 
@@ -62,7 +67,9 @@ Pros:
 
 - It selects the stacked area chart to group values of many catagories. It focuses on the overall trends and how they changes by group on shares instead of absolute values. And it is good choice in this case because there have many dates. 
 - It considers grouping many tiny values together to one bigger value(e.g. "others european countries and african countries") to clean up the overall look of the chart. You will need fewer labels, which will help your readers to navigate themselves faster on the chart.
+	
 	![](Jupiler.jpg)
+
 - It turns off automatic labeling and places its own's labels. readers will be able to read the chart faster thanks to that.  
 
 Cons:
