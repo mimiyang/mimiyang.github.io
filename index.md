@@ -94,15 +94,17 @@ Cons:
 
 - Why there is a share decline in African American players in some sports?
 
-- According to compositon of women's professional soccer in the U.S., what happened on the trend of other foreign countries where foreigners came from? 
+- According to compositon of women's professional soccer in the U.S., We can see that there have a few gaps. What happened on the trend of other foreign countries where foreigners came from? 
 
 
 **How can they find the answers with this tool?**
 
 - The changes of the composition reflect the trend of the new fans. The trend of charts on the composition are very consistant . It provides a great views for them. The conclusion also works for Hockey Leagues and the interest of the sport. 
-
+![](women.jpg)
 - It may be because the trend of fans changes. When baseball was national pastime of the United States, majority of players were american. However, it changed a lot when interest in baseball becomes strong in Latin American. Then more international players join the baseball leagues. Alongside this growth among latin Americans, there is a sharp decline in participation among African-Americans. 
 ![](african.jpg)
+-Women’s professional soccer has had fits and starts in the U.S., with two previous leagues – the Women’s United Soccer Association and Women’s Professional Soccer – both folding after a few seasons. the composition of women’s pro soccer in the U.S. has been relatively consistent: largely Americans, with foreigners coming mostly from Europe and Canada.
+![](women.jpg)
 
 
 ```markdown
