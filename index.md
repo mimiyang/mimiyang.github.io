@@ -22,7 +22,7 @@ There are 15 Stacked Area Charts. Stacked area charts are good choice for this p
 
 **Features:**
 
-- Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together. 
+- Arrange more than one d3.js graph on a web page. Take the graph for european leagues as example. It combines 9 graphs together. The plot below shows svg image of one stacked area chart. 
 ![](svg.jpg)
 
 
@@ -115,25 +115,6 @@ Cons:
 ![](MLB.jpg)
 -Women’s professional soccer has had fits and starts in the U.S., with two previous leagues – the Women’s United Soccer Association and Women’s Professional Soccer – both folding after a few seasons. the composition of women’s pro soccer in the U.S. has been relatively consistent: largely Americans, with foreigners coming mostly from Europe and Canada.
 ![](women.jpg)
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![MLB](/MLB.jpg)
-```
 
 
 
